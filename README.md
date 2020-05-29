@@ -21,5 +21,5 @@ Gaussiandistribution.py - contains Gaussian distribution class for calculating a
 # Installation
 ```
 pip install bhuvan_probability
-```
+``` 
 ![Output](https://github.com/Gangadharbhuvan/bhuvan_probability/blob/master/Python%20Package(PyPi)%20-%20bhuvan_probability/images/Working_output-1.png)
