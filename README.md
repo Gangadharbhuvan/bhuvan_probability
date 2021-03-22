@@ -3,7 +3,7 @@ A PyPi package for Gaussian Distribution and Binomial Distribution
 
 Summary of the package
 
-checkout - [My project on PyPi](https://pypi.org/project/bhuvan-probability/1.1/)
+checkout - [My Python package on PyPi](https://pypi.org/project/bhuvan-probability/1.1/)
 
 --------------------------------------------------------------------------------------
 
