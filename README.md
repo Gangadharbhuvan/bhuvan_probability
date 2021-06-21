@@ -24,6 +24,13 @@ Gaussiandistribution.py - contains Gaussian distribution class for calculating a
 	visualizing a Gaussian distribution.
 
 --------------------------------------------------------------------------------------
+Working:
+- Import Gaussian, and Binomial from the package bhuvan_probability
+- In Gaussian give input for mean and SD
+- Then In Binomial give input for probability and No. of trails.
+- This calculates mean and Standard deviation for Binomial Distribution.
+--------------------------------------------------------------------------------------
+
 
 # Installation
 ```
